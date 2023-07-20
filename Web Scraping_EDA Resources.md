@@ -1,4 +1,4 @@
-#### Web scraping and exploratory data analysis (EDA)** are two essential skills for data enthusiasts that play a significant role in extracting and analyzing valuable insights from various data sources.
+#### Web scraping and exploratory data analysis (EDA) are two essential skills for data enthusiasts that play a significant role in extracting and analyzing valuable insights from various data sources.
 
 Web scraping allows data enthusiasts to extract data from websites and online platforms, enabling them to collect large volumes of structured or unstructured data for analysis. 
 By automating the data extraction process, web scraping provides access to valuable information that can be used for market research, competitor analysis, sentiment analysis, and much more.
