@@ -21,4 +21,5 @@ Based on the data analysis of the top 50 UK companies listed in the Forbes Globa
 
 - Correlation Analysis: 'Revenue' has a strong positive correlation with 'profit', indicating that companies with higher revenue tend to have higher profits. 'Profit' has a low positive correlation with 'Value', suggesting that companies' profit tend to have positive low influence on their values. 'Profit' and 'Assets' have a moderately positive correlation. 'Assets' and 'Value' have a low positive correlation.
 
-These findings provide valuable insights into the characteristics and performance of the top 50 UK companies. They can be used to inform business strategies and decision-making. However, it's important to note that these findings are based on the data from the year 2021, and the current situation may be different. Therefore, using the most recent data for making business decisions is recommended.
+These findings provide valuable insights into the characteristics and performance of the top 50 UK companies. They can be used to inform business strategies and decision-making. However, 
+It's important to note that these findings are based on the data from the year 2021, and the current situation may be different. Therefore, using the most recent data for making business decisions is recommended.
